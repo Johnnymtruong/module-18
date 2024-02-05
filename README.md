@@ -1,3 +1,11 @@
+https://public.tableau.com/authoring/TableauCitiBikeChallenge_17071753267080/CitiBike2018-2019StoryAnalysis2#1
+
+
+
+
+
+
+
 Your task in this assignment is to aggregate the data found in the Citi Bike Trip History Logs and find two unexpected phenomena.
 
 Design 2–5 visualizations for each discovered phenomenon (4–10 total). You may work with a timespan of your choosing. Optionally, you can also merge multiple datasets from different periods.
@@ -82,3 +90,4 @@ In answering the question of "why" a phenomenon is occurring, consider adding ot
 Don't be afraid to manipulate your data and play with settings in Tableau. Tableau is meant to be explored. We haven't covered everything that you’ll need—so keep an eye out for new tricks!
 
 Treat this as a serious endeavor! This is an opportunity to show future employers that you have what it takes to be a top-notch analyst.
+
